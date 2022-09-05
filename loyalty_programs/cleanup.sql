@@ -1,0 +1,9 @@
+DROP TABLE  IF EXISTS promotion_loose_leaf    DELETE TOPIC;
+DROP TABLE  IF EXISTS promotion_french_poodle DELETE TOPIC;
+DROP TABLE  IF EXISTS caffeine_index          DELETE TOPIC;
+DROP TABLE  IF EXISTS sales_totals            DELETE TOPIC;
+DROP STREAM IF EXISTS enriched_purchases      DELETE TOPIC;
+DROP TABLE  IF EXISTS all_products            DELETE TOPIC;
+DROP STREAM IF EXISTS purchases               DELETE TOPIC;
+DROP STREAM IF EXISTS products                DELETE TOPIC;
+DROP STREAM IF EXISTS users                   DELETE TOPIC;
