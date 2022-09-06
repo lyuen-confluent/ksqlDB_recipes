@@ -4,9 +4,9 @@ INSERT INTO customers (customer_id, first_name, last_name, email, gender, income
 INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (4,'Leo','Chan','leo@companyA.com','Male',109825, 650);
 INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (5,'Candy','Wong','candy@companyB.com','Female',45000, 750);
 INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (6,'Tony','Li','tony@companyC.com','Male',110000, 500);
-INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (7,'Trevor','Tsang','trevor@companyD.com','Male',50000, 700);
-INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (8,'Joanne','Lam','joanne@companyE.com','Female',48000, 650);
-INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (9,'Jessie','Suen','jessie@companyF.com','Female',33000, 620);
+INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (7,'Trevor','Tsang','trevor@companyD.com','Male',60000, 700);
+INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (8,'Joanne','Lam','joanne@companyE.com','Female',55000, 650);
+INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (9,'Jessie','Suen','jessie@companyF.com','Female',66000, 620);
 INSERT INTO customers (customer_id, first_name, last_name, email, gender, income, fico) VALUES  (10,'Karen','Tin','karen@companyG.com','Female',150000, 720);
 
 INSERT INTO offers (offer_id, offer_name, offer_url) VALUES (1,'new_savings','https://www.hangseng.com/en-hk/home/');
