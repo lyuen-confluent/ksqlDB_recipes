@@ -7,6 +7,10 @@ INSERT INTO MERCHANT_LOCATIONS (id, latitude, longitude, description, geohash) V
 INSERT INTO MERCHANT_LOCATIONS (id, latitude, longitude, description, geohash) VALUES (2, 22.3346323, 114.1983870, '泰景食堂', 'wecpn9uswrn6');
 INSERT INTO MERCHANT_LOCATIONS (id, latitude, longitude, description, geohash) VALUES (3, 22.3383587, 114.2008539, 'Coti the Bistro', 'wecpndwd2gbs');
 
+----------------------------------------------------
+-- Following are not required for dashbaord demo
+----------------------------------------------------
+
 INSERT INTO USER_LOCATIONS (id, latitude, longitude, geohash) VALUES (1, 22.3347106, 114.1969499, 'wecpn9gtjgcd');
 INSERT INTO USER_LOCATIONS (id, latitude, longitude, geohash) VALUES (1, 22.3375791, 114.2009994, 'wecpndqtu4t1');
 INSERT INTO USER_LOCATIONS (id, latitude, longitude, geohash) VALUES (2, 22.3360556, 114.1962580, 'wecpnd5hvwt9');

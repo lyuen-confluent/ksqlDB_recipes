@@ -24,6 +24,10 @@ INSERT INTO products ( product_id, category, price ) VALUES ( 'plates', 'kitchen
 INSERT INTO products ( product_id, category, price ) VALUES ( 'jenga', 'games', 13.00 );
 INSERT INTO products ( product_id, category, price ) VALUES ( 'monopoly', 'games', 24.00 );
 
+----------------------------------------------------
+-- Following are not required for dashbaord demo
+----------------------------------------------------
+
 -- Some purchases.
 INSERT INTO purchases ( user_id, product_id ) VALUES ( 'kris', 'coffee' );
 INSERT INTO purchases ( user_id, product_id ) VALUES ( 'kris', 'coffee' );

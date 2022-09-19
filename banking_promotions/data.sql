@@ -15,6 +15,10 @@ INSERT INTO offers (offer_id, offer_name, offer_url) VALUES (3,'new_home_loan','
 INSERT INTO offers (offer_id, offer_name, offer_url) VALUES (4,'new_auto_loan','https://www.hangseng.com/en-hk/home/');
 INSERT INTO offers (offer_id, offer_name, offer_url) VALUES (5,'no_offer','https://www.hangseng.com/en-hk/home/');
 
+----------------------------------------------------
+-- Following are not required for dashbaord demo
+----------------------------------------------------
+
 INSERT INTO customer_activity_stream (customer_id, activity_id, ip_address, activity_type, propensity_to_buy) VALUES (1, 1,'121.219.110.170','branch_visit',0.4);
 INSERT INTO customer_activity_stream (customer_id, activity_id, ip_address, activity_type, propensity_to_buy) VALUES (2, 2,'210.232.55.188','deposit',0.56);
 INSERT INTO customer_activity_stream (customer_id, activity_id, ip_address, activity_type, propensity_to_buy) VALUES (3, 3,'84.197.123.173','web_open',0.33);
